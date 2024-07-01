@@ -1,0 +1,492 @@
+{
+  "appName": {
+    "message": "Distract Me Not"
+  },
+  "appDesc": {
+    "message": "Restez concentré dans un monde rempli de distractions."
+  },
+  "blacklist": {
+    "message": "Liste noire"
+  },
+  "whitelist": {
+    "message": "Liste blanche"
+  },
+  "combined": {
+    "message": "Combiné"
+  },
+  "combinedDescription": {
+    "message": "Combine les modes liste noire et liste blanche en ignorant les sites web sur liste blanche et en bloquant ceux de la liste noire"
+  },
+  "whitelistDescription": {
+    "message": "Quand le mode liste blanche est actif, vous pouvez uniquement visiter les sites web suivants :"
+  },
+  "blacklistDescription": {
+    "message": "Quand le mode liste noire est actif, vous ne pouvez pas visiter les sites web suivants :"
+  },
+  "websiteUrlPlaceholder": {
+    "message": "Veuillez entrer l'URL du site ici"
+  },
+  "blockingMessage": {
+    "message": "Message à afficher"
+  },
+  "defaultBlockingMessage": {
+    "message": "Où est-ce que vous allez..."
+  },
+  "displayBlankPage": {
+    "message": "Afficher une page vide"
+  },
+  "settings": {
+    "message": "Réglages"
+  },
+  "logs": {
+    "message": "Journaux"
+  },
+  "donate": {
+    "message": "Faire un don"
+  },
+  "help": {
+    "message": "Besoin d'aide ?"
+  },
+  "about": {
+    "message": "À propos"
+  },
+  "version": {
+    "message": "Version"
+  },
+  "license": {
+    "message": "Licence"
+  },
+  "supportDeveloper": {
+    "message": "* Si vous avez aimé cette extension, pensez à soutenir le développeur."
+  },
+  "reportIssue": {
+    "message": "Signaler un problème"
+  },
+  "refresh": {
+    "message": "Rafraîchir"
+  },
+  "clear": {
+    "message": "Effacer"
+  },
+  "blocked": {
+    "message": "Bloquée"
+  },
+  "allowed": {
+    "message": "Permise"
+  },
+  "addToBlacklist": {
+    "message": "Ajouter le site web actuel à la liste noire"
+  },
+  "addToWhitelist": {
+    "message": "Ajouter le site web actuel à la liste blanche"
+  },
+  "status": {
+    "message": "Statut"
+  },
+  "mode": {
+    "message": "Mode"
+  },
+  "action": {
+    "message": "Action"
+  },
+  "blockTab": {
+    "message": "Bloquer"
+  },
+  "redirectToUrl": {
+    "message": "Rediriger vers une URL"
+  },
+  "closeTab": {
+    "message": "Fermer l'onglet"
+  },
+  "url": {
+    "message": "Url"
+  },
+  "redirectUrlExample": {
+    "message": "Exemple : about:blank, https://www.google.com, ..."
+  },
+  "urlExample": {
+    "message": "Exemple : www.facebook.com, www.youtube.com, ..."
+  },
+  "urlIsNotValid": {
+    "message": "L'url n'est pas valide"
+  },
+  "urlAlreadyExists": {
+    "message": "L'url existe déjà !"
+  },
+  "copiedToClipboard": {
+    "message": "Copié dans le presse-papier !"
+  },
+  "enableOnBrowserStartup": {
+    "message": "Toujours activer au démarrage du navigateur"
+  },
+  "import": {
+    "message": "Importer"
+  },
+  "export": {
+    "message": "Exporter"
+  },
+  "blocking": {
+    "message": "Blocage"
+  },
+  "blockingBlacklistDescription": {
+    "message": "Veuillez choisir une action à entreprendre pour les sites web sur la liste noire"
+  },
+  "blockingWhitelistDescription": {
+    "message": "Veuillez choisir une action à entreprendre pour les sites web ne figurant pas sur la liste blanche"
+  },
+  "unblocking": {
+    "message": "Déblocage"
+  },
+  "enableUnblocking": {
+    "message": "Activer le déblocage"
+  },
+  "unblockingDescription": {
+    "message": "Affiche un boutton pour débloquer les sites web"
+  },
+  "requirePasswordToUnblockWebsites": {
+    "message": "Exiger un mot de passe pour débloquer les sites web"
+  },
+  "schedule": {
+    "message": "Planification"
+  },
+  "scheduleDescription": {
+    "message": "Planifier le temps de blocage"
+  },
+  "scheduleTip": {
+    "message": "S'il n'y a pas d'horaire, le blocage sera actif pendant toute la journée."
+  },
+  "scheduleStartTime": {
+    "message": "Heure de début"
+  },
+  "scheduleEndTime": {
+    "message": "Heure de fin"
+  },
+  "scheduleType": {
+    "message": "Type d'horaire"
+  },
+  "blockingTime": {
+    "message": "Temps de blocage"
+  },
+  "allowedTime": {
+    "message": "Temps autorisé"
+  },
+  "addScheduleRange": {
+    "message": "Ajouter un horaire"
+  },
+  "deleteLastScheduleRange": {
+    "message": "Supprimer le dernier horaire"
+  },
+  "applyScheduleSettings": {
+    "message": "Appliquer les paramètres partout"
+  },
+  "confirmApplyScheduleSettings": {
+    "message": "Êtes-vous sûr de vouloir appliquer les paramètres actuels à tous les autres jours de la semaine?"
+  },
+  "miscellaneous": {
+    "message": "Divers"
+  },
+  "password": {
+    "message": "Mot de passe"
+  },
+  "changePassword": {
+    "message": "Changer le mot de passe"
+  },
+  "changePasswordTooltip": {
+    "message": "Laissez vide pour conserver l'ancien mot de passe."
+  },
+  "passwordDescription": {
+    "message": "Verrouille l'accès aux paramètres avec un mot de passe."
+  },
+  "enablePasswordProtection": {
+    "message": "Activer la protection par mot de passe"
+  },
+  "passwordIsShort": {
+    "message": "Le mot de passe doit contenir au moins 8 caractères."
+  },
+  "passwordIsWrong": {
+    "message": "Mot de passe incorrect !"
+  },
+  "allowAddingWebsitesWithoutPassword": {
+    "message": "Permettre l'ajout de sites web sans entrer le mot de passe"
+  },
+  "enable": {
+    "message": "Activer"
+  },
+  "addWebsite": {
+    "message": "Ajouter un site web"
+  },
+  "addWebsiteHint": {
+    "message": "Vous pouvez utiliser des caractères génériques pour sélectionner des sous-domaines ou des sous-pages, par exemple: <b>*.example.com</b>, <b>example.com/blog/*</b>, <b>example.com/exact-link&#36;</b>"
+  },
+  "add": {
+    "message": "Ajouter"
+  },
+  "save": {
+    "message": "Sauvegarder"
+  },
+  "settingsSaved": {
+    "message": "Paramètres sauvegardés !"
+  },
+  "copy": {
+    "message": "Copier"
+  },
+  "edit": {
+    "message": "Modifier"
+  },
+  "duplicate": {
+    "message": "Dupliquer"
+  },
+  "delete": {
+    "message": "Supprimer"
+  },
+  "order": {
+    "message": "Ordre"
+  },
+  "ascending": {
+    "message": "Ascendant"
+  },
+  "descending": {
+    "message": "Descendant"
+  },
+  "show": {
+    "message": "Afficher"
+  },
+  "hide": {
+    "message": "Cacher"
+  },
+  "date": {
+    "message": "Date"
+  },
+  "filter": {
+    "message": "Filtrer"
+  },
+  "close": {
+    "message": "Fermer"
+  },
+  "cancel": {
+    "message": "Annuler"
+  },
+  "confirm": {
+    "message": "Confirmer"
+  },
+  "monday": {
+    "message": "Lundi"
+  },
+  "tuesday": {
+    "message": "Mardi"
+  },
+  "wednesday": {
+    "message": "Mercredi"
+  },
+  "thursday": {
+    "message": "Jeudi"
+  },
+  "friday": {
+    "message": "Vendredi"
+  },
+  "saturday": {
+    "message": "Samedi"
+  },
+  "sunday": {
+    "message": "Dimanche"
+  },
+  "select": {
+    "message": "Sélectionner..."
+  },
+  "dayEnd": {
+    "message": "Fin de journée"
+  },
+  "dayOff": {
+    "message": "Journée off"
+  },
+  "enabled": {
+    "message": "Activé"
+  },
+  "unblock": {
+    "message": "Débloquer"
+  },
+  "unblockOnce": {
+    "message": "Débloquer une fois"
+  },
+  "unblockFor": {
+    "message": "Débloquer pour"
+  },
+  "unblockOnceTimeout": {
+    "message": "Délai d'expiration du déblocage pour une fois"
+  },
+  "displayNotificationOnTimeout": {
+    "message": "Afficher une notification une fois le temps écoulé"
+  },
+  "autoReblockOnTimeout": {
+    "message": "Rebloquer automatiquement les sites web débloqués une fois le temps écoulé"
+  },
+  "timeOverFor": {
+    "message": "Temps écoulé pour $url$",
+    "placeholders": {
+      "url": {
+        "content": "$1"
+      }
+    }
+  },
+  "minutes": {
+    "message": "minute(s)"
+  },
+  "seconds": {
+    "message": "seconde(s)"
+  },
+  "enableLogs": {
+    "message": "Activer les journaux de suivi"
+  },
+  "logsLength": {
+    "message": "Taille maximale des journaux"
+  },
+  "logsLengthDescription": {
+    "message": "Nombre de lignes à conserver dans la table des logs"
+  },
+  "hideReportIssueButton": {
+    "message": "Masquer le bouton 'signaler un problème' sur le panneau principal"
+  },
+  "showAddWebsitePrompt": {
+    "message": "Afficher l'invite d'ajout de site web"
+  },
+  "showAddWebsitePromptTooltip": {
+    "message": "Affiche une invite de confirmation lors de l'ajout d'un site web à partir du button '+' sur le panneau principal"
+  },
+  "urls": {
+    "message": "Liens"
+  },
+  "keywords": {
+    "message": "Mots clés"
+  },
+  "blacklistKeywordsDescription": {
+    "message": "Quand le mode liste noire est actif, vous ne pouvez pas visiter les liens contenant les mots-clés suivants:"
+  },
+  "whitelistKeywordsDescription": {
+    "message": "Quand le mode liste blanche est actif, vous pouvez uniquement visiter les liens contenant les mots-clés suivants:"
+  },
+  "keywordExample": {
+    "message": "Exemple : foo, bar, ..."
+  },
+  "addKeywordHint": {
+    "message": "Vous pouvez utiliser des expressions régulières pour plus de flexibilité, par exemple: <b>/foo?/</b>, <b>/bar/i</b>, <b>/(foo|bar)/i</b>"
+  },
+  "keywordIsNotValid": {
+    "message": "Le mot-clé n'est pas valide"
+  },
+  "keywordAlreadyExists": {
+    "message": "Le mot-clé existe déjà !"
+  },
+  "allowActivationWithoutPassword": {
+    "message": "Permettre l'activation sans entrer le mot de passe"
+  },
+  "allowActivationWithoutPasswordDescription": {
+    "message": "Affiche un bouton 'Activation rapide' sur le panneau principal"
+  },
+  "quickActivation": {
+    "message": "Activation rapide"
+  },
+  "openLogs": {
+    "message": "Consulter les journaux"
+  },
+  "timer": {
+    "message": "Minuteur"
+  },
+  "enableTimer": {
+    "message": "Activer le minuteur"
+  },
+  "enableTimerDescription": {
+    "message": "Affiche un bouton 'Minuteur' sur le panneau principal"
+  },
+  "defaultTimerValue": {
+    "message": "Valeur par défaut du minuteur"
+  },
+  "allowStoppingTimer": {
+    "message": "Permettre l'arrêt manuel du minuteur avant qu'il ne se termine"
+  },
+  "displayNotificationOnComplete": {
+    "message": "Afficher une notification lorsque le minuteur se termine"
+  },
+  "allowUsingTimerWithoutPassword": {
+    "message": "Permettre l'accès au minuteur sans entrer le mot de passe"
+  },
+  "mainPanel": {
+    "message": "Panneau principal"
+  },
+  "start": {
+    "message": "Démarrer"
+  },
+  "stop": {
+    "message": "Arrêter"
+  },
+  "remainingTime": {
+    "message": "Temps restant"
+  },
+  "timerCompleted": {
+    "message": "Minuteur terminé !"
+  },
+  "blockCurrentDomain": {
+    "message": "Bloquer le nom de domaine courant"
+  },
+  "blockCurrentUrl": {
+    "message": "Bloquer l'url courante"
+  },
+  "blacklistSettings": {
+    "message": "Réglages > Liste noire"
+  },
+  "whitelistSettings": {
+    "message": "Réglages > Liste blanche"
+  },
+  "lastModified": {
+    "message": "Dernière modification :"
+  },
+  "never": {
+    "message": "Jamais"
+  },
+  "displayBlockedLink": {
+    "message": "Afficher le lien bloqué"
+  },
+  "blockAccessToExtensionsPage": {
+    "message": "Bloquer l'accès à la page des extensions"
+  },
+  "blockAccessToExtensionsPageWarning": {
+    "message": "Assurez-vous d'enregistrer votre mot de passe dans un endroit sûr avant d'activer cette fonctionnalité"
+  },
+  "pasteBinTip": {
+    "message": "Copiez l'URL ci-dessus et collez-la dans votre barre d'adresse, puis appuyez sur Entrée. Veuillez noter que le jeton expirera dans $tokenExpireTime$ $unit$.",
+    "placeholders": {
+      "tokenExpireTime": {
+        "content": "$1"
+      },
+      "unit": {
+        "content": "$2"
+      }
+    }
+  },
+  "allowedHosts": {
+    "message": "Hôtes autorisés"
+  },
+  "framesType": {
+    "message": "Type de frames"
+  },
+  "framesTypeDescription": {
+    "message": "Choisissez un type de frames à bloquer. Réglez-le sur 'Frames principales' pour autoriser les iframes et les intégrations"
+  },
+  "allFrames": {
+    "message": "Toutes les frames"
+  },
+  "mainFrames": {
+    "message": "Frames principales uniquement"
+  },
+  "subFrames": {
+    "message": "Sous-frames uniquement"
+  },
+  "FAQ": {
+    "message": "FAQ"
+  },
+  "importSettings": {
+    "message": "Importer les paramètres"
+  },
+  "exportSettings": {
+    "message": "Exporter les paramètres"
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "appName": {
+    "message": "Distract Me Not"
+  },
+  "appDesc": {
+    "message": "Stay focused in a world full of distractions."
+  },
+  "blacklist": {
+    "message": "Blacklist"
+  },
+  "whitelist": {
+    "message": "Whitelist"
+  },
+  "combined": {
+    "message": "Combined"
+  },
+  "combinedDescription": {
+    "message": "Combines both blacklist & whitelist modes by ignoring whitelisted websites & blocking blacklisted ones"
+  },
+  "whitelistDescription": {
+    "message": "When mode is set to whitelist, you can only visit the following websites:"
+  },
+  "blacklistDescription": {
+    "message": "When mode is set to blacklist, you cannot visit the following websites:"
+  },
+  "websiteUrlPlaceholder": {
+    "message": "Please enter the URL of the website here"
+  },
+  "blockingMessage": {
+    "message": "Message"
+  },
+  "defaultBlockingMessage": {
+    "message": "Where are you going..."
+  },
+  "displayBlankPage": {
+    "message": "Display a blank page"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "logs": {
+    "message": "Logs"
+  },
+  "donate": {
+    "message": "Donate"
+  },
+  "help": {
+    "message": "Need help?"
+  },
+  "about": {
+    "message": "About"
+  },
+  "version": {
+    "message": "Version"
+  },
+  "license": {
+    "message": "License"
+  },
+  "supportDeveloper": {
+    "message": "* If you liked this extension please consider supporting the developer."
+  },
+  "reportIssue": {
+    "message": "Report an issue"
+  },
+  "refresh": {
+    "message": "Refresh"
+  },
+  "clear": {
+    "message": "Clear"
+  },
+  "blocked": {
+    "message": "Blocked"
+  },
+  "allowed": {
+    "message": "Allowed"
+  },
+  "addToBlacklist": {
+    "message": "Add current website to blacklist"
+  },
+  "addToWhitelist": {
+    "message": "Add current website to whitelist"
+  },
+  "status": {
+    "message": "Status"
+  },
+  "mode": {
+    "message": "Mode"
+  },
+  "action": {
+    "message": "Action"
+  },
+  "blockTab": {
+    "message": "Block"
+  },
+  "redirectToUrl": {
+    "message": "Redirect to url"
+  },
+  "closeTab": {
+    "message": "Close tab"
+  },
+  "url": {
+    "message": "Url"
+  },
+  "redirectUrlExample": {
+    "message": "Example: about:blank, https://www.google.com, ..."
+  },
+  "urlExample": {
+    "message": "Example: www.facebook.com, www.youtube.com, ..."
+  },
+  "urlIsNotValid": {
+    "message": "Url is not valid"
+  },
+  "urlAlreadyExists": {
+    "message": "Url already exists!"
+  },
+  "copiedToClipboard": {
+    "message": "Copied to clipboard!"
+  },
+  "enableOnBrowserStartup": {
+    "message": "Enable on browser startup"
+  },
+  "import": {
+    "message": "Import"
+  },
+  "export": {
+    "message": "Export"
+  },
+  "blocking": {
+    "message": "Blocking"
+  },
+  "blockingBlacklistDescription": {
+    "message": "Choose an action to take for the blacklisted websites"
+  },
+  "blockingWhitelistDescription": {
+    "message": "Choose an action to take for non whitelisted websites"
+  },
+  "unblocking": {
+    "message": "Unblocking"
+  },
+  "enableUnblocking": {
+    "message": "Enable Unblocking"
+  },
+  "unblockingDescription": {
+    "message": "Displays an 'Unblock' button on the blocked websites"
+  },
+  "requirePasswordToUnblockWebsites": {
+    "message": "Require password to unblock websites"
+  },
+  "schedule": {
+    "message": "Schedule"
+  },
+  "scheduleDescription": {
+    "message": "Schedule blocking time"
+  },
+  "scheduleTip": {
+    "message": "If schedule time is not defined, the blocking will be active for the whole day."
+  },
+  "scheduleStartTime": {
+    "message": "Start time"
+  },
+  "scheduleEndTime": {
+    "message": "End time"
+  },
+  "scheduleType": {
+    "message": "Schedule type"
+  },
+  "blockingTime": {
+    "message": "Blocking time"
+  },
+  "allowedTime": {
+    "message": "Allowed time"
+  },
+  "addScheduleRange": {
+    "message": "Add time range"
+  },
+  "deleteLastScheduleRange": {
+    "message": "Delete last range"
+  },
+  "applyScheduleSettings": {
+    "message": "Apply settings everywhere"
+  },
+  "confirmApplyScheduleSettings": {
+    "message": "Are you sure that you want to apply the current schedule settings on all the other days of the week?"
+  },
+  "miscellaneous": {
+    "message": "Miscellaneous"
+  },
+  "password": {
+    "message": "Password"
+  },
+  "changePassword": {
+    "message": "Change password"
+  },
+  "changePasswordTooltip": {
+    "message": "Leave empty to keep the old password."
+  },
+  "passwordDescription": {
+    "message": "Locks access to settings with a password."
+  },
+  "enablePasswordProtection": {
+    "message": "Enable password protection"
+  },
+  "passwordIsShort": {
+    "message": "The password must contain at least 8 characters."
+  },
+  "passwordIsWrong": {
+    "message": "Wrong password!"
+  },
+  "allowAddingWebsitesWithoutPassword": {
+    "message": "Allow adding websites without entering the password"
+  },
+  "enable": {
+    "message": "Enable"
+  },
+  "addWebsite": {
+    "message": "Add a website"
+  },
+  "addWebsiteHint": {
+    "message": "Use wildcard matching to select subdomains or subpages, e.g.: <b>*.example.com</b>, <b>example.com/blog/*</b>, <b>example.com/exact-link&#36;</b>"
+  },
+  "add": {
+    "message": "Add"
+  },
+  "save": {
+    "message": "Save"
+  },
+  "settingsSaved": {
+    "message": "Settings saved!"
+  },
+  "copy": {
+    "message": "Copy"
+  },
+  "edit": {
+    "message": "Edit"
+  },
+  "duplicate": {
+    "message": "Duplicate"
+  },
+  "delete": {
+    "message": "Delete"
+  },
+  "order": {
+    "message": "Order"
+  },
+  "ascending": {
+    "message": "Ascending"
+  },
+  "descending": {
+    "message": "Descending"
+  },
+  "show": {
+    "message": "Show"
+  },
+  "hide": {
+    "message": "Hide"
+  },
+  "date": {
+    "message": "Date"
+  },
+  "filter": {
+    "message": "Filter"
+  },
+  "close": {
+    "message": "Close"
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "confirm": {
+    "message": "Confirm"
+  },
+  "monday": {
+    "message": "Monday"
+  },
+  "tuesday": {
+    "message": "Tuesday"
+  },
+  "wednesday": {
+    "message": "Wednesday"
+  },
+  "thursday": {
+    "message": "Thursday"
+  },
+  "friday": {
+    "message": "Friday"
+  },
+  "saturday": {
+    "message": "Saturday"
+  },
+  "sunday": {
+    "message": "Sunday"
+  },
+  "select": {
+    "message": "Select..."
+  },
+  "dayEnd": {
+    "message": "Day end"
+  },
+  "dayOff": {
+    "message": "Day off"
+  },
+  "enabled": {
+    "message": "Enabled"
+  },
+  "unblock": {
+    "message": "Unblock"
+  },
+  "unblockOnce": {
+    "message": "Unblock once"
+  },
+  "unblockFor": {
+    "message": "Unblock for"
+  },
+  "unblockOnceTimeout": {
+    "message": "Unblock once timeout"
+  },
+  "displayNotificationOnTimeout": {
+    "message": "Display a notification when time is over"
+  },
+  "autoReblockOnTimeout": {
+    "message": "Auto re-block unblocked websites when time is over"
+  },
+  "timeOverFor": {
+    "message": "Time over for $url$",
+    "placeholders": {
+      "url": {
+        "content": "$1"
+      }
+    }
+  },
+  "minutes": {
+    "message": "minute(s)"
+  },
+  "seconds": {
+    "message": "second(s)"
+  },
+  "enableLogs": {
+    "message": "Enable trace logs"
+  },
+  "logsLength": {
+    "message": "Logs length"
+  },
+  "logsLengthDescription": {
+    "message": "Number of lines to keep on logs table"
+  },
+  "hideReportIssueButton": {
+    "message": "Hide \"report an issue\" button on the main panel"
+  },
+  "showAddWebsitePrompt": {
+    "message": "Show \"add website\" prompt"
+  },
+  "showAddWebsitePromptTooltip": {
+    "message": "Display a prompt when adding websites via \"+\" button on the main panel"
+  },
+  "urls": {
+    "message": "Urls"
+  },
+  "keywords": {
+    "message": "Keywords"
+  },
+  "blacklistKeywordsDescription": {
+    "message": "When mode is set to blacklist, you cannot visit website urls containing the following keywords:"
+  },
+  "whitelistKeywordsDescription": {
+    "message": "When mode is set to whitelist, you can only visit website urls containing the following keywords:"
+  },
+  "keywordExample": {
+    "message": "Example: foo, bar, ..."
+  },
+  "addKeywordHint": {
+    "message": "Use regex patterns for more flexibility, e.g.: <b>/foo?/</b>, <b>/bar/i</b>, <b>/(foo|bar)/i</b>"
+  },
+  "keywordIsNotValid": {
+    "message": "Keyword is not valid"
+  },
+  "keywordAlreadyExists": {
+    "message": "Keyword already exists!"
+  },
+  "allowActivationWithoutPassword": {
+    "message": "Allow activation without entering the password"
+  },
+  "allowActivationWithoutPasswordDescription": {
+    "message": "Displays a 'Quick activation' button on the main panel"
+  },
+  "quickActivation": {
+    "message": "Quick activation"
+  },
+  "openLogs": {
+    "message": "Open logs"
+  },
+  "timer": {
+    "message": "Timer"
+  },
+  "enableTimer": {
+    "message": "Enable timer"
+  },
+  "enableTimerDescription": {
+    "message": "Displays a 'Timer' button on the main panel"
+  },
+  "defaultTimerValue": {
+    "message": "Default timer value"
+  },
+  "allowStoppingTimer": {
+    "message": "Allow stopping the timer before it ends"
+  },
+  "displayNotificationOnComplete": {
+    "message": "Display a notification when the timer ends"
+  },
+  "allowUsingTimerWithoutPassword": {
+    "message": "Allow using the timer without entering the password"
+  },
+  "mainPanel": {
+    "message": "Main panel"
+  },
+  "start": {
+    "message": "Start"
+  },
+  "stop": {
+    "message": "Stop"
+  },
+  "remainingTime": {
+    "message": "Remaining time"
+  },
+  "timerCompleted": {
+    "message": "Timer completed!"
+  },
+  "blockCurrentDomain": {
+    "message": "Block the current domain name"
+  },
+  "blockCurrentUrl": {
+    "message": "Block the current url"
+  },
+  "blacklistSettings": {
+    "message": "Settings > Blacklist"
+  },
+  "whitelistSettings": {
+    "message": "Settings > Whitelist"
+  },
+  "lastModified": {
+    "message": "Last modified:"
+  },
+  "never": {
+    "message": "Never"
+  },
+  "displayBlockedLink": {
+    "message": "Display blocked link"
+  },
+  "blockAccessToExtensionsPage": {
+    "message": "Block access to extensions page"
+  },
+  "blockAccessToExtensionsPageWarning": {
+    "message": "Please make sure to save your password in a safe place before enabling this feature"
+  },
+  "pasteBinTip": {
+    "message": "Copy the url above & paste it in your address bar then hit Enter. Please notice that the token will expire in $tokenExpireTime$ $unit$.",
+    "placeholders": {
+      "tokenExpireTime": {
+        "content": "$1"
+      },
+      "unit": {
+        "content": "$2"
+      }
+    }
+  },
+  "allowedHosts": {
+    "message": "Allowed hosts"
+  },
+  "framesType": {
+    "message": "Frames type"
+  },
+  "framesTypeDescription": {
+    "message": "Choose a type of frames to block. Set it to 'Main frames' to allow iframes & embeds"
+  },
+  "allFrames": {
+    "message": "All frames"
+  },
+  "mainFrames": {
+    "message": "Main frames only"
+  },
+  "subFrames": {
+    "message": "Sub frames only"
+  },
+  "FAQ": {
+    "message": "FAQ"
+  },
+  "importSettings": {
+    "message": "Import settings"
+  },
+  "exportSettings": {
+    "message": "Export settings"
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "appName": {
+    "message": "Niet storen s.v.p."
+  },
+  "appDesc": {
+    "message": "Laat je niet afleiden door de wereld."
+  },
+  "blacklist": {
+    "message": "Zwarte lijst"
+  },
+  "whitelist": {
+    "message": "Witte lijst"
+  },
+  "combined": {
+    "message": "Gecombineerd"
+  },
+  "combinedDescription": {
+    "message": "Combineert de zwarte en witte lijst door websites op de witte lijst te negeren en websites op de zwarte lijst te blokkeren"
+  },
+  "whitelistDescription": {
+    "message": "Schakel de witte lijst in om alleen de volgende websites te bezoeken:"
+  },
+  "blacklistDescription": {
+    "message": "Schakel de zwarte lijst in om de volgende websites niet te bezoeken:"
+  },
+  "websiteUrlPlaceholder": {
+    "message": "Voer de volledige website-url in"
+  },
+  "blockingMessage": {
+    "message": "Bericht"
+  },
+  "defaultBlockingMessage": {
+    "message": "Waar denk je naartoe te gaan?"
+  },
+  "displayBlankPage": {
+    "message": "Blanco pagina tonen"
+  },
+  "settings": {
+    "message": "Instellingen"
+  },
+  "logs": {
+    "message": "Logboek"
+  },
+  "donate": {
+    "message": "Doneren"
+  },
+  "help": {
+    "message": "Hulp nodig?"
+  },
+  "about": {
+    "message": "Over"
+  },
+  "version": {
+    "message": "Versie"
+  },
+  "license": {
+    "message": "Licentie"
+  },
+  "supportDeveloper": {
+    "message": "*Overweeg om te doneren aan de ontwikkelaar."
+  },
+  "reportIssue": {
+    "message": "Probleem melden"
+  },
+  "refresh": {
+    "message": "Verversen"
+  },
+  "clear": {
+    "message": "Wissen"
+  },
+  "blocked": {
+    "message": "Geblokkeerd"
+  },
+  "allowed": {
+    "message": "Toegestaan"
+  },
+  "addToBlacklist": {
+    "message": "Huidige website toevoegen aan zwarte lijst"
+  },
+  "addToWhitelist": {
+    "message": "Huidige website toevoegen aan witte lijst"
+  },
+  "status": {
+    "message": "Status"
+  },
+  "mode": {
+    "message": "Modus"
+  },
+  "action": {
+    "message": "Actie"
+  },
+  "blockTab": {
+    "message": "Blokkeren"
+  },
+  "redirectToUrl": {
+    "message": "Doorsturen naar url"
+  },
+  "closeTab": {
+    "message": "Tabblad sluiten"
+  },
+  "url": {
+    "message": "URL"
+  },
+  "redirectUrlExample": {
+    "message": "Voorbeelden: about:blank, https://www.google.nl, …"
+  },
+  "urlExample": {
+    "message": "Voorbeelden: www.facebook.com, www.youtube.com, …"
+  },
+  "urlIsNotValid": {
+    "message": "De url is ongeldig"
+  },
+  "urlAlreadyExists": {
+    "message": "De url is al toegevoegd."
+  },
+  "copiedToClipboard": {
+    "message": "De url is gekopieerd naar het klembord!"
+  },
+  "enableOnBrowserStartup": {
+    "message": "Automatisch opstarten"
+  },
+  "import": {
+    "message": "Importeren"
+  },
+  "export": {
+    "message": "Exporteren"
+  },
+  "blocking": {
+    "message": "Blokkering"
+  },
+  "blockingBlacklistDescription": {
+    "message": "Kies welke actie moet worden genomen bij websites op de zwarte lijst"
+  },
+  "blockingWhitelistDescription": {
+    "message": "Kies welke actie moet worden genomen bij websites op de witte lijst"
+  },
+  "unblocking": {
+    "message": "Deblokkeren"
+  },
+  "enableUnblocking": {
+    "message": "Deblokkeren inschakelen"
+  },
+  "unblockingDescription": {
+    "message": "Toont een knop ‘Deblokkeren’ op geblokkeerde websites"
+  },
+  "requirePasswordToUnblockWebsites": {
+    "message": "Wachtwoord vereisen om websites te ontgrendelen"
+  },
+  "schedule": {
+    "message": "Planning"
+  },
+  "scheduleDescription": {
+    "message": "Blokkeertijd inplannen"
+  },
+  "scheduleTip": {
+    "message": "Als je geen tijd opgeeft, dan is de blokkade de hele dag actief."
+  },
+  "scheduleStartTime": {
+    "message": "Begintijd"
+  },
+  "scheduleEndTime": {
+    "message": "Eindtijd"
+  },
+  "scheduleType": {
+    "message": "Soort tijd inplannen"
+  },
+  "blockingTime": {
+    "message": "Blokkadetijd"
+  },
+  "allowedTime": {
+    "message": "Toegestane tijd"
+  },
+  "addScheduleRange": {
+    "message": "Tijdschema toevoegen"
+  },
+  "deleteLastScheduleRange": {
+    "message": "Recentste schema verwijderen"
+  },
+  "applyScheduleSettings": {
+    "message": "Instellingen overal toepassen"
+  },
+  "confirmApplyScheduleSettings": {
+    "message": "Weet je zeker dat je de huidige instellingen op alle andere dagen van de week wilt toepassen?"
+  },
+  "miscellaneous": {
+    "message": "Overig"
+  },
+  "password": {
+    "message": "Wachtwoord"
+  },
+  "changePassword": {
+    "message": "Wachtwoord wijzigen"
+  },
+  "changePasswordTooltip": {
+    "message": "Laat leeg om het oude wachtwoord te behouden."
+  },
+  "passwordDescription": {
+    "message": "Vergrendelt toegang tot de instellingen met een wachtwoord."
+  },
+  "enablePasswordProtection": {
+    "message": "Wachtwoordbeveiliging inschakelen"
+  },
+  "passwordIsShort": {
+    "message": "Het wachtwoord moet minimaal 8 tekens bevatten."
+  },
+  "passwordIsWrong": {
+    "message": "Het wachtwoord is onjuist!"
+  },
+  "allowAddingWebsitesWithoutPassword": {
+    "message": "Toestaan om websites toe te voegen zonder het wachtwoord in te voeren"
+  },
+  "enable": {
+    "message": "Inschakelen"
+  },
+  "addWebsite": {
+    "message": "Website toevoegen"
+  },
+  "addWebsiteHint": {
+    "message": "Gebruik jokertekens om subdomeinen of -pagina's overeen te laten komen. Voorbeeld: <b>*.voorbeeld.nl</b>, <b>voorbeeld.nl/blog/*</b>, <b>voorbeeld.nl/exacte-link&#36;</b>"
+  },
+  "add": {
+    "message": "Toevoegen"
+  },
+  "save": {
+    "message": "Opslaan"
+  },
+  "settingsSaved": {
+    "message": "De instellingen zijn opgeslagen!"
+  },
+  "copy": {
+    "message": "Kopiëren"
+  },
+  "edit": {
+    "message": "Bewerken"
+  },
+  "duplicate": {
+    "message": "Klonen"
+  },
+  "delete": {
+    "message": "Verwijderen"
+  },
+  "order": {
+    "message": "Volgorde"
+  },
+  "ascending": {
+    "message": "Oplopend"
+  },
+  "descending": {
+    "message": "Aflopend"
+  },
+  "show": {
+    "message": "Tonen"
+  },
+  "hide": {
+    "message": "Verbergen"
+  },
+  "date": {
+    "message": "Datum"
+  },
+  "filter": {
+    "message": "Filteren"
+  },
+  "close": {
+    "message": "Sluiten"
+  },
+  "cancel": {
+    "message": "Annuleren"
+  },
+  "confirm": {
+    "message": "Bevestigen"
+  },
+  "monday": {
+    "message": "maandag"
+  },
+  "tuesday": {
+    "message": "dinsdag"
+  },
+  "wednesday": {
+    "message": "woensdag"
+  },
+  "thursday": {
+    "message": "donderdag"
+  },
+  "friday": {
+    "message": "vrijdag"
+  },
+  "saturday": {
+    "message": "zaterdag"
+  },
+  "sunday": {
+    "message": "zondag"
+  },
+  "select": {
+    "message": "Kiezen…"
+  },
+  "dayEnd": {
+    "message": "Einde van de dag"
+  },
+  "dayOff": {
+    "message": "ADV-dag"
+  },
+  "enabled": {
+    "message": "Ingeschakeld"
+  },
+  "unblock": {
+    "message": "Deblokkeren"
+  },
+  "unblockOnce": {
+    "message": "Eenmalig deblokkeren"
+  },
+  "unblockFor": {
+    "message": "Deblokkeren gedurende"
+  },
+  "unblockOnceTimeout": {
+    "message": "Eenmalig deblokkeren gedurende"
+  },
+  "displayNotificationOnTimeout": {
+    "message": "Melding tonen zodra de tijd is verstreken"
+  },
+  "autoReblockOnTimeout": {
+    "message": "Niet-geblokkeerde websites automatisch blokkeren zodra de tijd is verstreken"
+  },
+  "timeOverFor": {
+    "message": "Het tijdschema van $url$ is verstreken",
+    "placeholders": {
+      "url": {
+        "content": "$1"
+      }
+    }
+  },
+  "minutes": {
+    "message": "minute(n)"
+  },
+  "seconds": {
+    "message": "seconde(n)"
+  },
+  "enableLogs": {
+    "message": "Traceerlogboeken aanleggen"
+  },
+  "logsLength": {
+    "message": "Logboeklengte"
+  },
+  "logsLengthDescription": {
+    "message": "Het aantal regels dat in het logboek moet worden bewaard"
+  },
+  "hideReportIssueButton": {
+    "message": "Knop “Probleem melden” op het hoofdpaneel verbergen"
+  },
+  "showAddWebsitePrompt": {
+    "message": "Venster “Website toevoegen” tonen"
+  },
+  "showAddWebsitePromptTooltip": {
+    "message": "Toon een venster bij het toevoegen van websites via de “+”-knop op het hoofdpaneel"
+  },
+  "urls": {
+    "message": "Url's"
+  },
+  "keywords": {
+    "message": "Trefwoorden"
+  },
+  "blacklistKeywordsDescription": {
+    "message": "Als de zwartelijstmodus is ingeschakeld, dan kun je geen websites bezoeken waarvan de url de volgende trefwoorden bevat:"
+  },
+  "whitelistKeywordsDescription": {
+    "message": "Wanneer de modus is ingesteld op whitelist, kunt u alleen website url's bezoeken die de volgende trefwoorden bevatten:"
+  },
+  "keywordExample": {
+    "message": "Voorbeeld: foo, bar, …"
+  },
+  "addKeywordHint": {
+    "message": "Als je meer flexibiliteit wilt, kun je reguliere uitdrukkingen gebruiken. Voorbeeld: <b>/foo?/</b>, <b>/bar/i</b>, <b>/(foo|bar)/i</b>"
+  },
+  "keywordIsNotValid": {
+    "message": "Dit trefwoord is ongeldig"
+  },
+  "keywordAlreadyExists": {
+    "message": "Dit trefwoord is al toegevoegd!"
+  },
+  "allowActivationWithoutPassword": {
+    "message": "Activering toestaan zonder het wachtwoord in te voeren"
+  },
+  "allowActivationWithoutPasswordDescription": {
+    "message": "Geeft een 'Snel activeren' knop weer op het hoofdpaneel"
+  },
+  "quickActivation": {
+    "message": "Snelle activering"
+  },
+  "openLogs": {
+    "message": "Open logboek"
+  },
+  "timer": {
+    "message": "Tijdklok"
+  },
+  "enableTimer": {
+    "message": "Tijdklok inschakelen"
+  },
+  "enableTimerDescription": {
+    "message": "Toont een 'Tijdklok' knop op het hoofdpaneel"
+  },
+  "defaultTimerValue": {
+    "message": "Standaard timerwaarde"
+  },
+  "allowStoppingTimer": {
+    "message": "Laat toe de timer te stoppen voor hij afloopt"
+  },
+  "displayNotificationOnComplete": {
+    "message": "Geef een melding wanneer de timer afloopt"
+  },
+  "allowUsingTimerWithoutPassword": {
+    "message": "Gebruik van de timer toestaan zonder het wachtwoord in te voeren"
+  },
+  "mainPanel": {
+    "message": "Hoofdpaneel"
+  },
+  "start": {
+    "message": "Start"
+  },
+  "stop": {
+    "message": "Stop"
+  },
+  "remainingTime": {
+    "message": "Resterende tijd"
+  },
+  "timerCompleted": {
+    "message": "Timer voltooid!"
+  },
+  "blockCurrentDomain": {
+    "message": "Blokkeer de huidige domeinnaam"
+  },
+  "blockCurrentUrl": {
+    "message": "Blokkeer de huidige url"
+  },
+  "blacklistSettings": {
+    "message": "Instellingen > Zwarte lijst"
+  },
+  "whitelistSettings": {
+    "message": "Instellingen > Witte lijst"
+  },
+  "lastModified": {
+    "message": "Laatst gewijzigd:"
+  },
+  "never": {
+    "message": "Nooit"
+  },
+  "displayBlockedLink": {
+    "message": "Geblokkeerde link weergeven"
+  },
+  "blockAccessToExtensionsPage": {
+    "message": "Toegang tot extensiepagina blokkeren"
+  },
+  "blockAccessToExtensionsPageWarning": {
+    "message": "Zorg ervoor dat u uw wachtwoord op een veilige plaats opslaat voordat u deze functie inschakelt"
+  },
+  "pasteBinTip": {
+    "message": "Kopieer de url hierboven en plak deze in uw adresbalk en druk vervolgens op Enter. Houd er rekening mee dat het token verloopt over $tokenExpireTime$ $unit$.",
+    "placeholders": {
+      "tokenExpireTime": {
+        "content": "$1"
+      },
+      "unit": {
+        "content": "$2"
+      }
+    }
+  },
+  "allowedHosts": {
+    "message": "Toegestane hosts"
+  },
+  "framesType": {
+    "message": "Frametype"
+  },
+  "framesTypeDescription": {
+    "message": "Kies een type frames om te blokkeren. Stel het in op 'Hoofdframes' om iframes en insluitingen toe te staan"
+  },
+  "allFrames": {
+    "message": "Alle frames"
+  },
+  "mainFrames": {
+    "message": "Alleen hoofdframes"
+  },
+  "subFrames": {
+    "message": "Alleen subframes"
+  },
+  "FAQ": {
+    "message": "FAQ"
+  },
+  "importSettings": {
+    "message": "Instellingen importeren"
+  },
+  "exportSettings": {
+    "message": "Instellingen exporteren"
+  }
+}

@@ -1,0 +1,30 @@
+nav[role='menu'] {
+  > div {
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    > h2 {
+      margin-top: 6px !important;
+      margin-bottom: 6px !important;
+    }
+    div[role='menuitemradio'],
+    div[role='menuitem'] {
+      height: 34px !important;
+      padding: 0 !important;
+    }
+  }
+}
+
+.edit-dialog {
+  > div:last-child {
+    border-top: 1px solid rgb(237, 240, 242);
+    padding: 16px;
+  }
+}
+
+.hidden {
+  display: none;
+  visibility: hidden;
+  overflow: hidden;
+  width: 0;
+  height: 0;
+}
